@@ -1,4 +1,4 @@
-public class LabaSample1 {
+public class Laba1Sample {
     public static void main(String[] args) {
         short[] z = {3, 5, 7, 9, 11, 13, 15, 17, 19}; //s array initialization
         float[] x = new float[17]; //x array initialization
